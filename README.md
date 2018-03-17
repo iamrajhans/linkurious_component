@@ -160,5 +160,5 @@ See the [dash-components-archetype][] repo for more information.
 
 
 [Builder]: https://github.com/FormidableLabs/builder
-[Dash]: https://github.com/plotly/dash2
+[Dash]: https://github.com/plotly/dash
 [dash-components-archetype]: https://github.com/plotly/dash-components-archetype
