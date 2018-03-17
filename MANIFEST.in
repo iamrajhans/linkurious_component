@@ -1,0 +1,5 @@
+include linkurious_component/bundle.js
+include linkurious_component/bundle.js.map
+include linkurious_component/metadata.json
+include README.md
+include LICENSE.md

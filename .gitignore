@@ -1,0 +1,15 @@
+build/
+coverage/
+dist/
+lib/
+lib/bundle.js*
+node_modules/
+linkurious_component/metadata.json
+linkurious_component/bundle.js*
+.npm
+vv/
+venv/
+*.pyc
+*.egg-info
+*.log
+.DS_Store
