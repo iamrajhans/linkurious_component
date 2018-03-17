@@ -4,7 +4,7 @@ Component to load the data from linkurious lib
 
 ## Dash
 
-Go to this link to learn about [Dash][https://github.com/plotly/dash].
+Go to this link to learn about [Dash].
 
 ## Getting started
 
